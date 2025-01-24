@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Cheese"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Pariatur sit reprehenderit cupidatat deserunt in id enim sit aliqua. In laboris est mollit dolore dolor nulla velit incididunt anim laborum incididunt veniam."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
